@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xenon Santillan</h1>
+<h1 align="center">Hi 👋, my name is Xenon Santillan</h1>
 <h3 align="center">A Full Stack Developer based in Sacramento</h3>
 
 [![](https://visitcount.itsvg.in/api?id=brennantaylor98&icon=5&color=9)](https://visitcount.itsvg.in)
